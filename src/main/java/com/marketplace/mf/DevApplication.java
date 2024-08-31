@@ -1,4 +1,4 @@
-package com.example.dev;
+package com.marketplace.mf;
 
 import java.util.Arrays;
 
@@ -7,10 +7,10 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.example.dev.domain.Categoria;
-import com.example.dev.domain.Produto;
-import com.example.dev.repositories.CategoriaRepository;
-import com.example.dev.repositories.ProdutoRepository;
+import com.marketplace.mf.domain.Categoria;
+import com.marketplace.mf.domain.Produto;
+import com.marketplace.mf.repositories.CategoriaRepository;
+import com.marketplace.mf.repositories.ProdutoRepository;
 
 @SpringBootApplication
 public class DevApplication implements CommandLineRunner {

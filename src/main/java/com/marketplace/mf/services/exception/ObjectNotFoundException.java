@@ -1,4 +1,4 @@
-package com.example.dev.services.exception;
+package com.marketplace.mf.services.exception;
 
 public class ObjectNotFoundException extends RuntimeException {
     

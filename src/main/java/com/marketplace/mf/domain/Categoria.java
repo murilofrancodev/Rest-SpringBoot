@@ -1,4 +1,4 @@
-package com.example.dev.domain;
+package com.marketplace.mf.domain;
 
 import java.io.Serializable;
 import java.util.ArrayList;
