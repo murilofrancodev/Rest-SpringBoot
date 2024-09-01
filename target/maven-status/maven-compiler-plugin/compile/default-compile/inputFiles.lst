@@ -1,3 +1,33 @@
-c:\Users\Murilo\Documents\Marketplace-Spring\src\main\java\com\example\dev\DevApplication.java
-c:\Users\Murilo\Documents\Marketplace-Spring\src\main\java\com\example\dev\domain\Categoria.java
-c:\Users\Murilo\Documents\Marketplace-Spring\src\main\java\com\example\dev\resources\CategoriaResource.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\DevApplication.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\Categoria.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\Cidade.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\Cliente.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\Endereco.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\enums\EstadoPagamento.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\enums\TipoCliente.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\Estado.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\ItemPedido.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\ItemPedidoPK.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\Pagamento.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\PagamentoComBoleto.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\PagamentoComCartao.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\Pedido.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\Produto.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\domain\Serializable.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\repositories\CategoriaRepository.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\repositories\CidadeRepository.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\repositories\ClienteRepository.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\repositories\EnderecoRepository.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\repositories\EstadoRepository.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\repositories\PagamentoRepository.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\repositories\PedidoRepository.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\repositories\ProdutoRepository.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\resources\CategoriaResource.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\resources\ClienteResource.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\resources\exception\ResourceExceptionHandler.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\resources\exception\StandardError.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\resources\PedidoResource.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\services\CategoriaService.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\services\ClienteService.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\services\exception\ObjectNotFoundException.java
+c:\Users\murilo.franco\OneDrive - Turn2C Serviços LTDA\Documentos\dev\src\main\java\com\marketplace\mf\services\PedidoService.java
