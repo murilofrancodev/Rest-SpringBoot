@@ -62,4 +62,4 @@ A aplicação segue o **padrão de desenvolvimento orientado a casos de uso**, o
 - **Método HTTP**: `GET`
 - **Descrição**: Retorna os dados de um pedido específico pelo seu ID, incluindo detalhes do pedido e informações associadas.
 
-README.md sendo atualizado conforme desenvolvimento.
+**README.md sendo atualizado conforme desenvolvimento.**
