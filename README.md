@@ -4,9 +4,7 @@ Aplicação desenvolvida em Spring Boot (versão 3.3.3), que implementa um servi
 
 ## Arquitetura
 
-A aplicação segue uma **Arquitetura em Camadas**, que organiza o código em diferentes camadas de responsabilidade, facilitando a manutenção e escalabilidade. As principais camadas são:
-
-- **Camada de Apresentação (Controller)**: Esta camada é responsável por expor os endpoints REST, processar as requisições HTTP, e retornar as respostas apropriadas. Utiliza o Spring MVC para mapear as requisições para os métodos correspondentes.
+A aplicação segue uma **Arquitetura em Camadas**.
 
 - **Camada de Serviço (Service)**: Contém a lógica de negócios da aplicação. Nessa camada, são implementadas as regras de negócio e a lógica necessária para atender os casos de uso específicos da aplicação. Ela também faz a intermediação entre a camada de apresentação e a camada de persistência.
 
@@ -24,6 +22,18 @@ A aplicação segue o **padrão de desenvolvimento orientado a casos de uso**, o
   - **Buscar Categoria por ID**: Recupera uma categoria pelo seu ID, juntamente com os produtos associados a essa categoria.
 - **Clientes**: Gerencie os dados dos clientes.
   - **Buscar Cliente por ID**: Recupera informações de um cliente específico pelo seu ID, incluindo nome, e-mail, CPF ou CNPJ, tipo do cliente, endereços e números de telefone.
+- **Pedidos**: Gerencie os pedidos realizados pelos clientes.
+  - **Buscar Pedido por ID**: Recupera informações de um pedido específico pelo seu ID.
+
+## Padrões Utilizados
+
+- Arquitetura em Camadas (Layered Architecture)
+- Padrão de Repositório (Repository Pattern)
+- Padrão de Serviço (Service Pattern)
+- Padrão RESTful (RESTful Pattern)
+- Mapeamento Objeto-Relacional (ORM) com JPA
+- Injeção de Dependência (Dependency Injection)
+- Padrão de Requisição e Resposta (Request-Response Pattern)
 
 ## Tecnologias Utilizadas
 
@@ -45,3 +55,11 @@ A aplicação segue o **padrão de desenvolvimento orientado a casos de uso**, o
 - **URL**: `/api/clientes/{id}`
 - **Método HTTP**: `GET`
 - **Descrição**: Retorna os dados de um cliente específico pelo seu ID. A resposta inclui nome, e-mail, CPF ou CNPJ, tipo do cliente, endereços e números de telefone.
+
+### Buscar Pedido por ID
+
+- **URL**: `/api/pedidos/{id}`
+- **Método HTTP**: `GET`
+- **Descrição**: Retorna os dados de um pedido específico pelo seu ID, incluindo detalhes do pedido e informações associadas.
+
+README.md sendo atualizado conforme desenvolvimento.
